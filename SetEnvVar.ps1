@@ -1,0 +1,1 @@
+Set-Item -Path Env:DX.UITESTINGENABLED -Value 1
